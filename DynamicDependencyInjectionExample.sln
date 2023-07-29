@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDependencyInjectionExample.Parser", "DynamicDependencyInjectionExample.Parser\DynamicDependencyInjectionExample.Parser.csproj", "{34EE18C2-9D18-4DE0-9776-BBE682262301}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDependencyInjectionExample.Test", "DynamicDependencyInjectionExample.Test\DynamicDependencyInjectionExample.Test.csproj", "{D3FA6ACA-39A4-4480-9E09-7FF07FCB6916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{34EE18C2-9D18-4DE0-9776-BBE682262301}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34EE18C2-9D18-4DE0-9776-BBE682262301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34EE18C2-9D18-4DE0-9776-BBE682262301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FA6ACA-39A4-4480-9E09-7FF07FCB6916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FA6ACA-39A4-4480-9E09-7FF07FCB6916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FA6ACA-39A4-4480-9E09-7FF07FCB6916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FA6ACA-39A4-4480-9E09-7FF07FCB6916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
